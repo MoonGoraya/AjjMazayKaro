@@ -459,7 +459,6 @@ def pilih_super():
 	print("\033[1;96m[+] \033[1;92mApki file save hogi \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
-print 
-\033[1;36;40mChand Goraya Tech
+
 if __name__ == '__main__':
 	login()
